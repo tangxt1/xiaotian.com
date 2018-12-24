@@ -2,8 +2,4 @@
 title: Home
 ---
 
-[<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-ivy)
-
-This Hugo theme was ported from [Ivy](https://github.com/dmulholland/ivy), a minimalist website generator built in Python. I don't have time to document it. You have to read the source code to understand what it can do. Like Ivy, this theme is also released under [the Unlicense](https://en.wikipedia.org/wiki/Unlicense), which basically means you just do whatever you want.
-
-All pages not under the root directory of the website are listed below. You can also visit the list page of a single section, e.g., [posts](/post/), or [notes](/note/).
+欢迎来到汤小天的个人博客。本人目前在宇宙最土校--[皇家德州农工大学](https://www.tamu.edu) 搬砖。虽所学为[昆虫学](https://entomology.tamu.edu/current-students/current-graduate-students/graduate-student-profiles/xiaotian-tang/)，但平日吃着扒鸡，搞些分子生物学，生物信息和统计等“见不得人”的东东。闲暇之余喜欢逛逛[科学网](http://www.sciencenet.cn/)。
