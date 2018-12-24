@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://www.xiaotianworld.com/"
 languageCode = "en-us"
 title = "Xiaotian Tang"
 theme = "hugo-ivy"
@@ -33,7 +33,7 @@ footnotereturnlinkcontents = "↩"
     url = "/index.xml"
 
 [params]
-    description = "This is the website for Xiaotian Tang."
+    description = "This is the private website for Xiaotian Tang."
     footer = "&copy; Xiaotian Tang 2018 | [Github](https://github.com/tangxt1) | [Twitter](https://twitter.com/Xiaotian_Tang18?lang=zh-cn)"
 
   highlightjsVersion = "9.12.0"
